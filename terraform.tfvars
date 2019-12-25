@@ -1,0 +1,8 @@
+resourcegroup_name="terraformvmrg"
+prefix="terraformvmss"
+location="southeastasia"
+ssh_username="kunhoko"
+ssh_password="CitrixOnAzure1!"
+ssh_port="22"
+managed_image_resourcegroup_name="test-imgrepo-rg"
+managed_image_name="imgtestwithdatadisk"
